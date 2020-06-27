@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_mysite/static/css/main.cbe7cd8d.chunk.css",
+    "main.js": "/react_mysite/static/js/main.b34fec6d.chunk.js",
+    "main.js.map": "/react_mysite/static/js/main.b34fec6d.chunk.js.map",
+    "runtime-main.js": "/react_mysite/static/js/runtime-main.5ae8b2f4.js",
+    "runtime-main.js.map": "/react_mysite/static/js/runtime-main.5ae8b2f4.js.map",
+    "static/js/2.ae3d053a.chunk.js": "/react_mysite/static/js/2.ae3d053a.chunk.js",
+    "static/js/2.ae3d053a.chunk.js.map": "/react_mysite/static/js/2.ae3d053a.chunk.js.map",
+    "index.html": "/react_mysite/index.html",
+    "precache-manifest.623865b19628b96d1fc9221865da9107.js": "/react_mysite/precache-manifest.623865b19628b96d1fc9221865da9107.js",
+    "service-worker.js": "/react_mysite/service-worker.js",
+    "static/css/main.cbe7cd8d.chunk.css.map": "/react_mysite/static/css/main.cbe7cd8d.chunk.css.map",
+    "static/js/2.ae3d053a.chunk.js.LICENSE.txt": "/react_mysite/static/js/2.ae3d053a.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/react_mysite/static/media/mobileUI-site-nav-opener-bg.053ec4e9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ae8b2f4.js",
+    "static/js/2.ae3d053a.chunk.js",
+    "static/css/main.cbe7cd8d.chunk.css",
+    "static/js/main.b34fec6d.chunk.js"
+  ]
+}
