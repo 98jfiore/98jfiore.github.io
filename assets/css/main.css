@@ -138,6 +138,7 @@ input, select, textarea {
 	img.left {
 		float: left;
 		margin: 2px 1.25em 0 0;
+		width: 60%;
 	}
 
 	img.top {
@@ -1484,9 +1485,8 @@ input, select, textarea {
 	}
 
 		ul.med-image-entry li img {
-			width: 60%;
-			border: '20px';
-			border-color: '#007294';
+			width: 78px;
+			border: 5px solid #c8d2bc;
 		}
 
 	ul.big-image-list li {
@@ -1693,7 +1693,7 @@ input, select, textarea {
 			}
 
 			ul.med-image-entry img {
-				width: 60%;
+				width: 50px;
 				border: 5px solid #c8d2bc;
 			}
 
@@ -1967,6 +1967,11 @@ input, select, textarea {
 		/* Reusable */
 
 			ul.small-image-list li img {
+				width: 100px;
+			}
+			
+
+			ul.med-image-entry img {
 				width: 100px;
 			}
 
