@@ -1484,7 +1484,9 @@ input, select, textarea {
 	}
 
 		ul.med-image-entry li img {
-			width: 120px;
+			width: 60%;
+			border: '20px';
+			border-color: '#007294';
 		}
 
 	ul.big-image-list li {
@@ -1691,7 +1693,8 @@ input, select, textarea {
 			}
 
 			ul.med-image-entry img {
-				width: 100px;
+				width: 60%;
+				border: 5px solid #c8d2bc;
 			}
 
 			ul.big-image-list img {
