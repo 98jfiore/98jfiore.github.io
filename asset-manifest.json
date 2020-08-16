@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.a6fcc5c5.chunk.css",
-    "main.js": "/homepage/static/js/main.0fa39086.chunk.js",
-    "main.js.map": "/homepage/static/js/main.0fa39086.chunk.js.map",
-    "runtime-main.js": "/homepage/static/js/runtime-main.dca32799.js",
-    "runtime-main.js.map": "/homepage/static/js/runtime-main.dca32799.js.map",
-    "static/js/2.777ec1ef.chunk.js": "/homepage/static/js/2.777ec1ef.chunk.js",
-    "static/js/2.777ec1ef.chunk.js.map": "/homepage/static/js/2.777ec1ef.chunk.js.map",
-    "index.html": "/homepage/index.html",
-    "precache-manifest.7ecf4f254e142bcbd2f0a2af2f955b49.js": "/homepage/precache-manifest.7ecf4f254e142bcbd2f0a2af2f955b49.js",
-    "service-worker.js": "/homepage/service-worker.js",
-    "static/css/main.a6fcc5c5.chunk.css.map": "/homepage/static/css/main.a6fcc5c5.chunk.css.map",
-    "static/js/2.777ec1ef.chunk.js.LICENSE.txt": "/homepage/static/js/2.777ec1ef.chunk.js.LICENSE.txt",
-    "static/media/main.css": "/homepage/static/media/mobileUI-site-nav-opener-bg.053ec4e9.svg"
+    "main.css": "/react_mysite/static/css/main.a9100fa3.chunk.css",
+    "main.js": "/react_mysite/static/js/main.8f4892f3.chunk.js",
+    "main.js.map": "/react_mysite/static/js/main.8f4892f3.chunk.js.map",
+    "runtime-main.js": "/react_mysite/static/js/runtime-main.5ae8b2f4.js",
+    "runtime-main.js.map": "/react_mysite/static/js/runtime-main.5ae8b2f4.js.map",
+    "static/js/2.777ec1ef.chunk.js": "/react_mysite/static/js/2.777ec1ef.chunk.js",
+    "static/js/2.777ec1ef.chunk.js.map": "/react_mysite/static/js/2.777ec1ef.chunk.js.map",
+    "index.html": "/react_mysite/index.html",
+    "precache-manifest.94f3507f09364662765c7e2ea6d89289.js": "/react_mysite/precache-manifest.94f3507f09364662765c7e2ea6d89289.js",
+    "service-worker.js": "/react_mysite/service-worker.js",
+    "static/css/main.a9100fa3.chunk.css.map": "/react_mysite/static/css/main.a9100fa3.chunk.css.map",
+    "static/js/2.777ec1ef.chunk.js.LICENSE.txt": "/react_mysite/static/js/2.777ec1ef.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/react_mysite/static/media/mobileUI-site-nav-opener-bg.053ec4e9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dca32799.js",
+    "static/js/runtime-main.5ae8b2f4.js",
     "static/js/2.777ec1ef.chunk.js",
-    "static/css/main.a6fcc5c5.chunk.css",
-    "static/js/main.0fa39086.chunk.js"
+    "static/css/main.a9100fa3.chunk.css",
+    "static/js/main.8f4892f3.chunk.js"
   ]
 }
